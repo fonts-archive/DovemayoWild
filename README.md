@@ -15,7 +15,7 @@ font-family: 'Dovemayo Wild';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/DovemayoWild/DovemayoWild.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/DovemayoWild/DovemayoWild.css" type="text/css"/>
 ```
 
 &nbsp;
